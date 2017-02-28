@@ -10,8 +10,7 @@ To gather admission information of required application materials of different C
 
 [Function]
 
-
-1. Display following gist information of a given CS program:
+1.Display following gist information of a given CS program:
 
 • Deadline: the application deadline;
 
@@ -19,19 +18,23 @@ To gather admission information of required application materials of different C
 
 • GRE: the institution code, department code and score requirement;
 
-• TOEFL: the institution code, department code and the minimum requirement of score; • IELTS: the acceptance and minimum score requirement;
+• TOEFL: the institution code, department code and the minimum requirement of score; 
+
+• IELTS: the acceptance and minimum score requirement;
 
 • GPA: the minimum requirement of GPA;
 
 • Transcripts: the form of transcripts, electronic or not;
 
-• Personal Statement: the type of Personal Statement or Statement of Purpose; • CV: the type of CV or resume;
+• Personal Statement: the type of Personal Statement or Statement of Purpose; 
+
+• CV: the type of CV or resume;
 
 • Recommendation Letters: the required number of recommendation letters;
 
 • Writing Sample: the requirement of the length of writing sample;
 
-2. Display the detailed full description of above aspects.
+2.Display the detailed full description of above aspects.
 
 [Idea]
 
