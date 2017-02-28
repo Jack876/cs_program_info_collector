@@ -4,9 +4,13 @@
 
 BeautifulSoup v4.5
 
+
+
 [Main Goal]
 
 To gather admission information of required application materials of different CS programs in American universities.
+
+
 
 [Function]
 
@@ -36,6 +40,8 @@ To gather admission information of required application materials of different C
 
 2.Display the detailed full description of above aspects.
 
+
+
 [Idea]
 
 Since most of target information is included in the HTML \<li> tags and \<p> tags on the university program websites, the basic idea is to extract all the \<li> and \<p> pairs and then perform regular expressions on them to dig out the target info.
@@ -43,6 +49,8 @@ Since most of target information is included in the HTML \<li> tags and \<p> tag
 Firstly, for the source of info, websites, we manually collect all the websites of CS programs of a number of American universities according to the ranking of U.S.News (http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science- schools/computer-science-rankings).
 
 Then we extract all necessary HTML tag pairs with BeautifulSoup (https://www.crummy.com/software/BeautifulSoup/), and then perform regular expressions on each aspect of the application materials and their requirements.
+
+
 
 [Framework]
 
